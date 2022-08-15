@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushk-sinha
+- 👋 Hi, I’m Ayush Kumar Sinha
 - 👀 I’m interested in Android development and web development.
 - 🌱 I’m currently learning Android development using java, data structure using C/C++.
 - 💞️ I’m looking to collaborate on basic android applications and dynamic webpages.

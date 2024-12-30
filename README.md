@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ayush Kumar Sinha
-- 👀 I’m interested in Android development and web development.
-- 🌱 I’m currently learning Android development using java, data structure using C/C++.
-- 💞️ I’m looking to collaborate on basic android applications and dynamic webpages.
-- 📫 How to reach me https://www.linkedin.com/in/vayur66/
+- 👀 I’m interested in backend development.
+- 🌱 I’m currently learning data structure using Java
+- 💞️ I want to collaborate on basic Spring Boot applications.
+- 📫 How to reach me https://www.linkedin.com/in/ayushksinha/
 
 <!---
 ayushk-sinha/ayushk-sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
